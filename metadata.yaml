@@ -1,0 +1,34 @@
+_repo: History-of-the-Early-Settlement-of-the-Juniata-ValleyEmbracing-an-Account-of-the-Early-Pionee__41392
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 41392-h/images/coverpage.jpg
+creator:
+  author:
+    agent_name: Jones, U. J. (Uriah James)
+    alias: Jones, Uriah James
+    birthdate: 1818
+    deathdate: 1864
+    gutenberg_agent_id: '41157'
+    url: http://www.gutenberg.org/2009/agents/41157
+description: ''
+gutenberg_issued: '2012-11-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '41392'
+  lccn: 01010488
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Juniata River Valley (Pa.) -- Genealogy'
+- !lcc 'F106'
+- !lcsh 'Frontier and pioneer life -- Pennsylvania -- Juniata River Valley'
+- !lcsh 'Indians of North America -- Pennsylvania -- Juniata River Valley'
+- !lcsh 'Juniata River Valley (Pa.) -- History'
+title: "History of the Early Settlement of the Juniata Valley\r\nEmbracing an Account\
+  \ of the Early Pioneers, and the Trials and Privations Incident to the Settlement\
+  \ of the Valley, Predatory Incursions, Massacres, and Abductions by the Indians\
+  \ During the French and Indian Wars, and the War of the Revolution, &c."
+url: http://www.gutenberg.org/ebooks/41392
