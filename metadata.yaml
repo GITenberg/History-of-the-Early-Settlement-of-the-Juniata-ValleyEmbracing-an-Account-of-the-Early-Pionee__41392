@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '41157'
     url: http://www.gutenberg.org/2009/agents/41157
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/41392#History-of-the-Early-Settlement-of-the-Juniata-ValleyEmbracing-an-Account-of-the-Early-Pionee_
 gutenberg_issued: '2012-11-17'
 gutenberg_type: Text
 identifiers:
